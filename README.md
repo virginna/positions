@@ -1,0 +1,2 @@
+# positions
+colored squares
